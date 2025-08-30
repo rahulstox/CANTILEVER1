@@ -10,6 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
 This repo contains the Planora project.
+<a name="top"></a>
 
 🚀 **Live Demo:** [Click here to view deployment](https://planora-sepia.vercel.app/)
 
@@ -162,7 +163,7 @@ Feel free to open issues or discussions if you have any feedback, feature sugges
   <tr>
     <td align="center">
       <a href="https://github.com/rahulstox">
-        <img src="https://avatars.githubusercontent.com/u/179824602?s=96&v=4" height="140px" width="140px" alt="Rahul Gupta">
+        <img src="https://avatars.githubusercontent.com/u/144617974?s=96&v=4" height="140px" width="140px" alt="Rahul Gupta">
       </a>
       <br>
       <sub><b>Rahul Gupta</b></sub>
@@ -190,7 +191,5 @@ Feel free to open issues or discussions if you have any feedback, feature sugges
        <img src="https://img.shields.io/badge/Back%20to%20Top-0078D7?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-
+<img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top" />
 **Ready to show off your coding achievements? Get started with planora today! 🚀**
